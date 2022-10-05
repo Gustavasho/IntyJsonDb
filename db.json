@@ -1,16 +1,16 @@
 {
   "carpetas": [
-  {
-    "code": 1,
-    "name": "Seguros",
-    "title": "Carpeta A"
-  },
-  {
-    "code": 2,
-    "name": "Polizas",
-    "title": "Carpeta B"
-  },
-],
+    {
+      "code": 1,
+      "name": "Seguros",
+      "title": "Carpeta A"
+    },
+    {
+      "code": 2,
+      "name": "Polizas",
+      "title": "Carpeta B"
+    },
+  ],
   "usuarios": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
