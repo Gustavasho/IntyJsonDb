@@ -1,14 +1,11 @@
 {
   "carpetas": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "code": 1, "name": "Seguridad", "title": "Carpeta A" },
+    { "code": 2, "name": "Nose", "title": "Carpeta B" },
+    { "code": 3, "name": "Yo tampoco", "title": "Carpeta C" },
   ],
-  "comments": [
+  "usuarios": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
