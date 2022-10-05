@@ -1,8 +1,10 @@
 {
   "carpetas": [
-    { "code": 1, "name": "Seguridad", "title": "Carpeta A" },
-    { "code": 2, "name": "Nose", "title": "Carpeta B" },
-    { "code": 3, "name": "Yo tampoco", "title": "Carpeta C" },
+    {
+      "id": 2,
+      "title": "Carpeta",
+      "body": "voluptate"
+    },
   ],
   "usuarios": [
     { "id": 1, "body": "some comment", "postId": 1 },
